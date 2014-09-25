@@ -29,6 +29,5 @@ setup(
     ],
     install_requires=[
         'Django',
-        'urllib',
     ],
 )
