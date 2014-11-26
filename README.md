@@ -1,7 +1,7 @@
 django-static-share
 ===================
 
-Quickly share a page using static links (urls) for various social networks.
+Quickly share a page using static links (urls) on various social networks.
 Template tags are provided for:
 
 * Facebook
