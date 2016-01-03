@@ -11,10 +11,10 @@ Template tags are provided for:
 ## Installation
 
 Either install directly:
-`pip install -e git+git@github.com:RRMoelker/django-static-share.git#egg=static_share`
+`pip install git+https://github.com/RRMoelker/django-static-share.git#egg=static_share`
 
 Or add the following line to your requirements file:
-`-e git+git@github.com:RRMoelker/django-static-share.git#egg=static_share`
+`-e git+https://github.com/RRMoelker/django-static-share.git#egg=static_share`
 
 ## Usage
 
